@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Helpdesk Projects:</h2>
 
-  - [Helpdesk 1](Link)
+  - [Link Title](Link)
   - [Link Title](Link) <b><i>(Additional Information)</b></i>
   - [Link Title](Link) <b><i>(Additional Information)</b></i>
 
@@ -12,10 +12,10 @@
   
 <h2>📜 Certifications:</h2>
 
-  - [PCCET](Link)
-  - [Network+](Link)
-  - [Splunk Certified Core User](Link)
-  - [AZ-900](Link)
+  - [](Link)
+  - [](Link)
+  - [](Link)
+  - [](Link)
     
 <h2> 🤳 Connect with me:</h2>
 
